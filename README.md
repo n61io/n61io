@@ -1,7 +1,7 @@
 # n61
 **AI for organizations that can't afford to get it wrong.**
 
-n61 builds evidence-bounded AI systems for environments where accuracy, provenance, privacy, and defensible reasoning matter.
+Answers grounded in evidence, not in AI memory. n61 creates AI products that solve practical problems by grounding answers in evidence, preserving privacy, and keeping human judgment at the center.
 
 ---
 
