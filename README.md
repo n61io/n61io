@@ -1,16 +1,18 @@
 # n61
-**AI data infrastructure for organizations that can't afford to get it wrong.**
+**AI for organizations that can't afford to get it wrong.**
 
-n61 builds privacy-native data systems for AI workflows where accuracy, provenance, and defensible modeling matter from the first query.
+n61 builds evidence-bounded AI systems for environments where accuracy, provenance, privacy, and defensible reasoning matter.
 
 ---
 
 ## Products
 
-### Quillian
-*Private by design. Powerful by default.*
+### SEEK2000
+*Answers grounded in evidence, not AI memory.*
 
-Privacy-preserving document intelligence. Ask questions of your documents — get cited, sourced answers. Everything runs on your infrastructure. No documents leave your network.
+A local-first evidence synthesis engine that retrieves relevant evidence, preserves provenance, synthesizes supported answers, and makes uncertainty explicit.
+
+SEEK2000 can run entirely on your infrastructure, keeping sensitive data under your control while supporting local and public evidence sources through native connectors and standards-based interfaces such as MCP.
 
 **Status:** Alpha · Early access available → [hello@n61.io](mailto:hello@n61.io)
 
@@ -19,7 +21,7 @@ Privacy-preserving document intelligence. Ask questions of your documents — ge
 ### SynthPop
 *Street-level insight. Zero privacy risk.*
 
-Synthetic population data for any geographic area — statistically identical to the real population, down to age, income, health status, and more. Built for actuarial modeling, public health planning, and market research.
+Synthetic population data for any geographic area — statistically representative of real populations across characteristics such as age, income, health status, and more. Built for actuarial modeling, public health planning, and market research.
 
 **Status:** Coming soon
 
@@ -27,7 +29,7 @@ Synthetic population data for any geographic area — statistically identical to
 
 ## About
 
-n61 was founded by **R. David Parker, PhD, FACE** — computational epidemiologist with 20+ years in applied research, $30M+ in extramural funding, and 42 peer-reviewed publications. Based in Anchorage, Alaska.
+n61 was founded by **R. David Parker, PhD, FACE** — computational epidemiologist with 20+ years in applied research, $30M+ in extramural funding, 100+ technical and policy publications, including 42 peer-reviewed publications. Based in Anchorage, Alaska.
 
 ---
 
